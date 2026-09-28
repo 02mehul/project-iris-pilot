@@ -1,0 +1,84 @@
+{
+  "success": true,
+  "start_time": "2026-09-28T16:59:16.163834",
+  "end_time": "2026-09-28T16:59:16.352216",
+  "duration_seconds": 0.188382,
+  "stages_executed": 6,
+  "failed_stage": null,
+  "stage_details": [
+    {
+      "stage": "Setup Database & Fixtures",
+      "status": "success",
+      "details": {
+        "status": "success",
+        "message": "Schema and fixtures loaded"
+      },
+      "timestamp": "2026-09-28T16:59:16.219938"
+    },
+    {
+      "stage": "Check Prerequisites",
+      "status": "success",
+      "details": {
+        "status": "success",
+        "source_rows": 4
+      },
+      "timestamp": "2026-09-28T16:59:16.235804"
+    },
+    {
+      "stage": "Validate Data Contracts",
+      "status": "success",
+      "details": {
+        "status": "success",
+        "rows_validated": 4
+      },
+      "timestamp": "2026-09-28T16:59:16.257702"
+    },
+    {
+      "stage": "Promote Accepted Data",
+      "status": "success",
+      "details": {
+        "status": "success",
+        "promoted_rows": 4
+      },
+      "timestamp": "2026-09-28T16:59:16.303330"
+    },
+    {
+      "stage": "Refresh Materialized Views",
+      "status": "success",
+      "details": {
+        "status": "success",
+        "views_refreshed": [
+          "mv_bess_candidates",
+          "mv_peatland_candidates"
+        ]
+      },
+      "timestamp": "2026-09-28T16:59:16.327828"
+    },
+    {
+      "stage": "Export Dossiers",
+      "status": "success",
+      "details": {
+        "status": "success",
+        "files_exported": [
+          "exports/bess_candidates.json",
+          "exports/peatland_candidates.json"
+        ]
+      },
+      "timestamp": "2026-09-28T16:59:16.352212"
+    }
+  ],
+  "freshness": {
+    "promote": {
+      "stale": false,
+      "last_success": "2026-09-28T16:59:16.358223"
+    },
+    "refresh_views": {
+      "stale": false,
+      "last_success": "2026-09-28T16:59:16.358223"
+    },
+    "export": {
+      "stale": false,
+      "last_success": "2026-09-28T16:59:16.358223"
+    }
+  }
+}

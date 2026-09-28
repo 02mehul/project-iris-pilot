@@ -1,0 +1,72 @@
+[
+  {
+    "id": 111,
+    "country_code": "IRL",
+    "area_sqm": "150000",
+    "area_unit": "sqm",
+    "eco_points": "1200000",
+    "geom": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -8.1,
+            53.5
+          ],
+          [
+            -8.1,
+            53.51
+          ],
+          [
+            -8.09,
+            53.51
+          ],
+          [
+            -8.09,
+            53.5
+          ],
+          [
+            -8.1,
+            53.5
+          ]
+        ]
+      ]
+    },
+    "reference_wording": "Preliminary prospecting material. Figures, eco-point estimates and site suitability are indicative and based on available source data and commercial screening assumptions. The 8 eco-points/m2 factor is the current commercial baseline, not certified compensation. Ownership, planning, grid capacity, environmental eligibility and transferability remain subject to project-specific verification. No permit, reservation or construction readiness is represented."
+  },
+  {
+    "id": 112,
+    "country_code": "IRL",
+    "area_sqm": "250000",
+    "area_unit": "sqm",
+    "eco_points": "2000000",
+    "geom": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -7.1,
+            52.5
+          ],
+          [
+            -7.1,
+            52.51
+          ],
+          [
+            -7.09,
+            52.51
+          ],
+          [
+            -7.09,
+            52.5
+          ],
+          [
+            -7.1,
+            52.5
+          ]
+        ]
+      ]
+    },
+    "reference_wording": "Preliminary prospecting material. Figures, eco-point estimates and site suitability are indicative and based on available source data and commercial screening assumptions. The 8 eco-points/m2 factor is the current commercial baseline, not certified compensation. Ownership, planning, grid capacity, environmental eligibility and transferability remain subject to project-specific verification. No permit, reservation or construction readiness is represented."
+  }
+]

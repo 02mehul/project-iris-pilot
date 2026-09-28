@@ -1,0 +1,72 @@
+[
+  {
+    "id": 109,
+    "country_code": "GBR",
+    "area_sqm": "5000",
+    "area_unit": "sqm",
+    "eco_points": "40000",
+    "geom": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -0.1,
+            51.5
+          ],
+          [
+            -0.1,
+            51.51
+          ],
+          [
+            -0.09,
+            51.51
+          ],
+          [
+            -0.09,
+            51.5
+          ],
+          [
+            -0.1,
+            51.5
+          ]
+        ]
+      ]
+    },
+    "reference_wording": "Preliminary prospecting material. Figures, eco-point estimates and site suitability are indicative and based on available source data and commercial screening assumptions. The 8 eco-points/m2 factor is the current commercial baseline, not certified compensation. Ownership, planning, grid capacity, environmental eligibility and transferability remain subject to project-specific verification. No permit, reservation or construction readiness is represented."
+  },
+  {
+    "id": 110,
+    "country_code": "GBR",
+    "area_sqm": "12000",
+    "area_unit": "sqm",
+    "eco_points": "96000",
+    "geom": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -1.1,
+            52.5
+          ],
+          [
+            -1.1,
+            52.51
+          ],
+          [
+            -1.09,
+            52.51
+          ],
+          [
+            -1.09,
+            52.5
+          ],
+          [
+            -1.1,
+            52.5
+          ]
+        ]
+      ]
+    },
+    "reference_wording": "Preliminary prospecting material. Figures, eco-point estimates and site suitability are indicative and based on available source data and commercial screening assumptions. The 8 eco-points/m2 factor is the current commercial baseline, not certified compensation. Ownership, planning, grid capacity, environmental eligibility and transferability remain subject to project-specific verification. No permit, reservation or construction readiness is represented."
+  }
+]
